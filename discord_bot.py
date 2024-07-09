@@ -31,7 +31,7 @@ class Discord:
            for page in page_list:
             await ctx.send(page)
         
-        bot.run("MTI1NjE5ODk1MDM0NDQ1ODI2MQ.GA9JJo.bAdM6c-AJNkTIWaOWbEewyHKnQxi_LzYnsPuOg")
+        bot.run("")
     
     def get_web(self):
         page = self.web_scraper.web_scraper()
